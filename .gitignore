@@ -1,0 +1,23 @@
+# dependencies
+node_modules
+
+# build output
+/dist
+/build
+
+# logs and backups
+*.log
+*.log.*
+*.pid
+*.swp
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Miscellaneous
+.env
+.env.local
+.env.*.local
+!.env.example
